@@ -1,0 +1,68 @@
+[
+  {
+    "username": "Tencent",
+    "name": "Tencent",
+    "url": "https://github.com/Tencent",
+    "avatar": "https://avatars0.githubusercontent.com/u/18461506?s=96&v=4",
+    "repo": {
+      "name": "tinker",
+      "description": "Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+      "url": "https://github.com/Tencent/tinker"
+    }
+  },
+  {
+    "username": "airbnb",
+    "name": "Airbnb",
+    "url": "https://github.com/airbnb",
+    "avatar": "https://avatars1.githubusercontent.com/u/698437?s=96&v=4",
+    "repo": {
+      "name": "lottie-android",
+      "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+      "url": "https://github.com/airbnb/lottie-android"
+    }
+  },
+  {
+    "username": "flutter",
+    "name": "Flutter",
+    "url": "https://github.com/flutter",
+    "avatar": "https://avatars1.githubusercontent.com/u/14101776?s=96&v=4",
+    "repo": {
+      "name": "flutter-intellij",
+      "description": "Flutter makes it easy and fast to build beautiful mobile apps.",
+      "url": "https://github.com/flutter/flutter-intellij"
+    }
+  },
+  {
+    "username": "google",
+    "name": "Google",
+    "url": "https://github.com/google",
+    "avatar": "https://avatars0.githubusercontent.com/u/1342004?s=96&v=4",
+    "repo": {
+      "name": "guava",
+      "description": "Google core libraries for Java",
+      "url": "https://github.com/google/guava"
+    }
+  },
+  {
+    "username": "facebook",
+    "name": "Facebook",
+    "url": "https://github.com/facebook",
+    "avatar": "https://avatars2.githubusercontent.com/u/69631?s=96&v=4",
+    "repo": {
+      "name": "fresco",
+      "description": "An Android library for managing images and the memory they use.",
+      "url": "https://github.com/facebook/fresco"
+    }
+  },
+  {
+    "username": "apache",
+    "name": "The Apache Software Foundation",
+    "url": "https://github.com/apache",
+    "avatar": "https://avatars0.githubusercontent.com/u/47359?s=96&v=4",
+    "repo": {
+      "name": "incubator-dubbo",
+      "description": "Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.",
+      "url": "https://github.com/apache/incubator-dubbo"
+    }
+  }
+]
